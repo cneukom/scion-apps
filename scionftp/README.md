@@ -4,6 +4,8 @@ This project aims to show feasibility when implementing an exisiting data transm
 
 ## Usage
 
+If you are interested to see scionFTP in action on the SCI-ED network, please refer to [this guide](./README.scied.md).
+
 ### Server
 
 To run the server, at least, specify the following options:
